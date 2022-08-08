@@ -1,0 +1,89 @@
+{
+  "articulos": [
+    {
+      "id": 1,
+      "descripcion": "Coca-Cola",
+      "cantidad": 40,
+      "precioCompra": 150,
+      "precioVenta": 190,
+      "stockMinimo": 10,
+      "categoriaId": 1,
+      "estado": 0
+    },
+    {
+      "id": 2,
+      "descripcion": "Sprite",
+      "cantidad": 50,
+      "precioCompra": 140,
+      "precioVenta": 170,
+      "stockMinimo": 10,
+      "categoriaId": 1,
+      "estado": 0
+    },
+    {
+      "id": 3,
+      "descripcion": "Fanta",
+      "cantidad": 50,
+      "precioCompra": 140,
+      "precioVenta": 170,
+      "stockMinimo": 10,
+      "categoriaId": 1,
+      "estado": 0
+    },
+    {
+      "descripcion": "Torasso",
+      "cantidad": "90",
+      "precioCompra": "160",
+      "precioVenta": "200",
+      "stockMinimo": "30",
+      "categoriaId": "1",
+      "id": 4
+    },
+    {
+      "descripcion": "Galletas",
+      "cantidad": "23",
+      "precioCompra": "140",
+      "precioVenta": "170",
+      "stockMinimo": "10",
+      "categoriaId": "2",
+      "id": 5
+    },
+    {
+      "descripcion": "Norte",
+      "cantidad": "30",
+      "precioCompra": "190",
+      "precioVenta": "250",
+      "stockMinimo": "31",
+      "categoriaId": "1",
+      "id": 7
+    },
+    {
+      "descripcion": "Lays 500grs",
+      "cantidad": "21",
+      "precioCompra": "130",
+      "precioVenta": "200",
+      "stockMinimo": "10",
+      "categoriaId": "2",
+      "id": 8
+    },
+    {
+      "descripcion": "Águila minitorta",
+      "cantidad": "24",
+      "precioCompra": "50",
+      "precioVenta": "150",
+      "stockMinimo": "5",
+      "categoriaId": "2",
+      "id": 9
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Bebidas"
+    },
+    {
+      "id": 2,
+      "nombre": "Comestibles"
+    }
+  ]
+}
