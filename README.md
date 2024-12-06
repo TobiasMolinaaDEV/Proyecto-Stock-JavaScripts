@@ -1,2 +1,2 @@
-# Proyecto-Stock-javaScripts
-Proyecto Final javaScripts para programación || de la UTN-FRT.
+# Proyecto-Stock-javaScript
+Proyecto Final javaScript para programación || de la UTN-FRT.
